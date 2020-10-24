@@ -1,0 +1,24 @@
+{
+  "name": "datainput",
+  "version": "1.0.0",
+  "description": "Directory to dataInput lessons",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danigmos/DataInput.git"
+  },
+  "author": "Daniel Guevara Mosquera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danigmos/DataInput/issues"
+  },
+  "homepage": "https://github.com/danigmos/DataInput#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
