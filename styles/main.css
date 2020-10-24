@@ -1,0 +1,31 @@
+
+/*header */
+.body{
+    color: rgb(193, 220, 231);
+}
+
+
+ .header-top{
+     background-color: rgb(41, 101, 161);
+     color: #ffffff;
+     font-size: 0.8rem;
+ }
+
+.header-top a {
+    color: rgb(193, 220, 231);
+  }
+
+ .header-main-menu{
+     color: rgb(193, 220, 231);
+     font-size: 0.9rem;
+     font-weight: 200;
+ }
+
+ .boton{
+     color: rgb(193, 220, 231);
+     background-color: rgb(41, 101, 161);
+ }
+
+ .header-button{
+     background-color: rgb(231, 231, 231);
+ }
