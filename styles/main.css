@@ -21,11 +21,27 @@
      font-weight: 200;
  }
 
- .boton{
-     color: rgb(193, 220, 231);
-     background-color: rgb(41, 101, 161);
- }
-
  .header-button{
      background-color: rgb(231, 231, 231);
  }
+
+ .header-button button{
+    color: rgb(193, 220, 231);
+    background-color: rgb(41, 101, 161);
+    border-style: none;
+ }
+
+.boton-search {
+    background-color: rgb(221, 221, 221);
+    color: rgb(94, 94, 94);
+    border-style: none;
+}
+
+.search-filter{
+    padding-left: 0px;
+}
+
+.search-filter input{
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
